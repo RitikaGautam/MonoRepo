@@ -15,6 +15,7 @@
   ],
   "dependencies": {
     "@types/lodash": "^4.17.13",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "common": "1.0.0"
   }
 }
